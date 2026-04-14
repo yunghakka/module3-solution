@@ -1,9 +1,7 @@
-/* Navbar */
 .navbar {
     border-radius: 0;
 }
 
-/* Mobile dropdown menu full width */
 #menu {
     background-color: #f2f2f2;
 }
@@ -17,7 +15,6 @@
     border-bottom: 1px solid #ccc;
 }
 
-/* Main section */
 .main-section {
     background-color: #e6e6e6;
     padding: 20px;
